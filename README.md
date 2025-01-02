@@ -29,6 +29,6 @@ To run the projects, ensure you have the following:
 If you have any questions, suggestions, or feedback, feel free to reach out:
 
 - **Email**: [vrithul9@gmail.com](mailto:vrithul9@gmail.com)
-- **LinkedIn**: [V Rithul's LinkedIn Profile]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/v-rithul-06b5632b6/))
+- **LinkedIn**: [V Rithul's LinkedIn Profile]([https://www.linkedin.com/in/v-rithul-06b5632b6/])
 
 I'm always open to collaborations and discussions. Let's connect!
